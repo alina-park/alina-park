@@ -3,7 +3,7 @@
 <div align="center">
 
 ### Welcome to my page!🤗 My name is Alina
-## I am a Software QA Automation Engineer 👩‍💻 with 5+ years of experience
+## I am a Software QA Automation Engineer 👩‍💻 with 6+ years of experience
   
 </div>
 <div align="center">
